@@ -47,6 +47,8 @@
 
   ![Snake animation](https://github.com/Robson-Brasil/Robson-Brasil/blob/output/github-contribution-grid-snake.svg)
 
+  ![Contribution](https://activity-graph.herokuapp.com/graph?username=Robson-Brasil&theme=gotham&hide_border=true&area=true)
+
 </div>
 
 <div align="center">
