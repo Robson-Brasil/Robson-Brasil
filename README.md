@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f69804&height=150&section=header"/>
-<br><p align="center"><img width="80%" alt="Hello, I'm Robson Brasil I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<br><p align="center"><img width="50%" alt="Hello, I'm Robson Brasil I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 </br>
 
 <div>
