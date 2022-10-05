@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f69804&height=150&section=header"/>
 
-<br>
-  <h1 align="center"><img width="65%" src="./assets/gh-readme-header.png"/></h1>
+<br><h1 align="center"><img width="65%" src="./assets/gh-readme-header.png"/></h1>
 </br>
 
 <div><br>
@@ -11,7 +10,7 @@
 
 <div align="center">
 
-<br><div style="display: inline_block"><br>
+<br><div style="display: inline_block"></div>
   <img align="left" height="250" alt="coding-time" src="code.gif">
   <h1 align="center">Tecnologias Mais Usadas</h1>
   <img align="center" alt="RobsonBrasil-Js" height="30" width="30" src="assets/github_logo_icon_147285.png">
