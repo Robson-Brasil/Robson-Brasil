@@ -52,13 +52,6 @@
 </div>
 
 <div align="center">
-
-  <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-
-</div>
-
-<div align="center">
 <br><p align="centre"><b>Contador de Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Robson-Brasil}/count.svg" /></p> 
 <br>
