@@ -1,14 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f69804&height=150&section=header"/>
 
-<br><p align="center"><img width="65%" src="./assets/gh-readme-header.png" /></p>
-</br>
+<div><h1><br>
+<p align="center"><img width="65%" src="./assets/gh-readme-header.png" /></p></h1>
+</br></div>
 
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Robson-Brasil&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robson-Brasil&layout=compact&langs_count=16&theme=maroongold"/>
 </div>
 
-<div  align="center">
+<div align="center">
 
 <br><div style="display: inline_block"><br>
   <img align="left" height="250" alt="coding-time" src="code.gif">
