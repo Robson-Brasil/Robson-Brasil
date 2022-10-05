@@ -1,5 +1,7 @@
-<p align="center"><img width="80%" alt="Hello, I'm Robson Brasil I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-<br />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+<br><p align="center"><img width="80%" alt="Hello, I'm Robson Brasil I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+</br>
 
 <div>
 
@@ -7,10 +9,9 @@
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robson-Brasil&layout=compact&langs_count=16&theme=maroongold"/>
   
 </div>
+
+<div  align="center">
 <br>
-
-<div  align="center"> 
-
   <div style="display: inline_block"><br>
   <img align="left" height="250" alt="coding-time" src="code.gif">
   <h1 align="center">Tecnologias Mais Usadas</h1>
@@ -29,19 +30,18 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Wa-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+</br></div>
 
-</div>
-
-<div> 
-
+<div>
+<br>
   <h1 align="center">Redes Sociais</h1>
     <a href="https://www.youtube.com/channel/UCnrVfxfXJulqCpq2ubsgIIQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/robsonbrasil.iot" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	  <a href="https://twitter.com/RobsonBrasill" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-    <a href="https://www.facebook.com/RobsonBrasill/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+    <a href="https://twitter.com/RobsonBrasill" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+    <a href="https://www.facebook.com/RobsonBrasill/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
     <a href = "mailto:robsonbrasil.emailparticular@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
-
+    </br>
 </div>
 
 <div align="center">
@@ -56,3 +56,5 @@
   <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
