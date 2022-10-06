@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f69804&height=100&section=header"/>
 
-<br><h1 align="center"><img width="65%" src="./assets/gh-readme-header.png"/></h1>
+<br><h1 align="center"><img width="75%" src="./assets/gh-readme-header.png"/></h1>
 </br>
 
 <div><br>
