@@ -4,7 +4,7 @@
 <br><h1 align="center"><img width="75%" src="./assets/gh-readme-header.png"/></h1>
 </br>
 
-| <a href="https://github.com/Robson-Brasil/github-readme-stats"><img height="200em align=center" src="https://github-readme-stats.vercel.app/api?username=Robson-Brasil&show_icons=true&include_all_commits=true&theme=maroongold&border=true" alt="Robson's github stats" /></a> | <a href="https://github.com/Robson-Brasil/github-readme-stats"><img height="200em align=center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robson-Brasil&layout=compact&theme=maroongold&border=true" /></a> |
+| <img height="200em align=center" src="https://github-readme-stats.vercel.app/api?username=Robson-Brasil&show_icons=true&include_all_commits=true&count_private=true&theme=maroongold&border=true" alt="Robson's github stats" /></a> | <img height="200em align=center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robson-Brasil&layout=compact&theme=maroongold&border=true" /></a> |
 | ------------- | ------------- |
 <br />
 <br />
