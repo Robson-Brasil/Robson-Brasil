@@ -45,7 +45,6 @@
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=Robson-Brasil&theme=gotham&hide_border=true&area=true)
 
-![Robson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robson-Brasil&theme=dark&show_icons=true)
 </div>
 
 <div align="center">
