@@ -1,12 +1,22 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f69804&height=100&section=header"/>
 
+<br />
 <br><h1 align="center"><img width="75%" src="./assets/gh-readme-header.png"/></h1>
 </br>
 
-<div><br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Robson-Brasil&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robson-Brasil&layout=compact&langs_count=16&theme=maroongold"/>
-</br></div>
+| <a href="https://github.com/Robson-Brasil/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Robson-Brasil&show_icons=true&include_all_commits=true&theme=maroongold&hide_border=true" alt="Robson's github stats" /></a> | <a href="https://github.com/Robson-Brasil/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robson-Brasil&layout=compact&theme=maroongold&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+<a href="https://github.com/Robson-Brasil/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Robson-Brasil&repo=github-readme-stats&theme=maroongold" />
+</a>
+<a href="https://github.com/Robson-Brasil/Robson-Brasil.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Robson-Brasil&repo=Robson-Brasil.github.io&theme=maroongold" />
+</a>
+<br />
+<br />
 
 <div align="center">
 <br><div style="display: inline_block"></div>
