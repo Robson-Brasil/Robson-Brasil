@@ -45,13 +45,13 @@
 
 ![Snake animation](https://github.com/Robson-Brasil/Robson-Brasil/blob/output/github-contribution-grid-snake.svg)
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Robson-Brasil&theme=gotham&hide_border=true&area=true)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=Robson-Brasil&theme=gotham&border=true&area=true)
 
 </div>
 
 <div align="center">
-<br><p align="centre"><b>Contador de Visitantes</b></p>  
+<br><p align="center"><b>Contador de Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Robson-Brasil}/count.svg" /></p>
-<br></div>
+</br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f69804&height=100&section=footer"/>
