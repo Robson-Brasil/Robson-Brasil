@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f69804&height=300&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f69804&height=100&section=header"/>
 
 <br><h1 align="center"><img width="65%" src="./assets/gh-readme-header.png"/></h1>
 </br>
@@ -51,4 +51,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Robson-Brasil}/count.svg" /></p>
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f69804&height=150&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f69804&height=100&section=footer"/>
