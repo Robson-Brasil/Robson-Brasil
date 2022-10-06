@@ -43,7 +43,7 @@
 </div>
 <div align="center">
 
-![Snake animation](https://github.com/Robson-Brasil/Robson-Brasil&border=true&area=true/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Robson-Brasil/Robson-Brasil/blob/output/github-contribution-grid-snake.svg&border=true)
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=Robson-Brasil&theme=gotham&border=true&area=true)
 
