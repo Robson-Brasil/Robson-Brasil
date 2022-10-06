@@ -4,7 +4,7 @@
 </br>
 
 <div><br>
-<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Robson-Brasil&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Robson-Brasil&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
 <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robson-Brasil&layout=compact&langs_count=16&theme=maroongold"/>
 </br></div>
 
