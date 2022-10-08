@@ -37,9 +37,11 @@
 </br>
 </div>
 
+<br></br>
+
 <div align="center">
 <div style="display: inline_block">
-<br><img align="center"><img width="10%" src="./assets/picwish.png"></br>
+<img align="center"><img width="20%" src="./assets/picwish.png">
 
 ![Snake animation](https://github.com/Robson-Brasil/Robson-Brasil/blob/output/github-contribution-grid-snake.svg)
 
