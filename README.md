@@ -50,8 +50,8 @@
 </div>
 
 <div align="center">
-< align="center"><b>Contador de Visitantes</b> 
-< align="center"><img align="center" src="https://profile-counter.glitch.me/{Robson-Brasil}/count.svg"/></>
+<p align="center"><b>Contador de Visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Robson-Brasil}/count.svg"/></p>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f69804&height=100&section=footer"/>
