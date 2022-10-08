@@ -6,7 +6,7 @@
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <div align="center">
-<br><div style="display: inline_block"></br></div>
+<br><div style="display: inline_block">
 <img align="left" height="250" alt="coding-time" src="code.gif">
 <h1 align="center">Tecnologias Mais Usadas</h1>
 <img align="center" alt="RobsonBrasil-Js" height="40" width="40" src="assets/github_logo_icon_147285.png">
@@ -28,7 +28,7 @@
 
 <div>
 <br><h1 align="center">Redes Sociais</h1>
-<div style="display: inline_block"></div>
+<!-- <div style="display: inline_block"></div> -->
 <a href="https://www.youtube.com/channel/UCnrVfxfXJulqCpq2ubsgIIQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/robsonbrasil.iot" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://twitter.com/RobsonBrasill" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
@@ -46,8 +46,8 @@
 </div>
 
 <div align="center">
-<br><p align="center"><b>Contador de Visitantes</b></p>  
+<p align="center"><b>Contador de Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Robson-Brasil}/count.svg"/></p>
-</br></div>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f69804&height=100&section=footer"/>
