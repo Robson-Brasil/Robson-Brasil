@@ -5,9 +5,6 @@
 | <img height="200em align=center" src="https://github-readme-stats.vercel.app/api?username=Robson-Brasil&count_private=true&include_all_commits=true&show_icons=true&theme=maroongold&hide_border=false&show_owner=true" alt="Robson's github stats" /></a> | <img height="200em align=center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robson-Brasil&layout=compact&theme=maroongold&border=true" /></a> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<br />
-<br />
-
 <div align="center">
 <br><div style="display: inline_block"></br></div>
 <img align="left" height="250" alt="coding-time" src="code.gif">
