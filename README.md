@@ -38,7 +38,8 @@
 </div>
 
 <div align="center">
-<h1 align="center">Essa cobra não pára!</h1>
+<div style="display: inline_block">
+<img align="left" height="250" alt="coding-time" src="./assets/picwish.png">
 
 ![Snake animation](https://github.com/Robson-Brasil/Robson-Brasil/blob/output/github-contribution-grid-snake.svg)
 
