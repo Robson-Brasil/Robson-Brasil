@@ -6,7 +6,7 @@
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <div align="center">
-<br><div style="display: inline_block">
+<p><div style="display: inline_block">
 <img align="left" height="250" alt="coding-time" src="code.gif">
 <h1 align="center">Tecnologias Mais Usadas</h1>
 <img align="center" alt="RobsonBrasil-Js" height="40" width="40" src="assets/github_logo_icon_147285.png">
@@ -24,17 +24,17 @@
 <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Wa-Jest" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
 <img align="center" alt="linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-</br></div>
+</p></div>
 
 <div>
-<br><h1 align="center">Redes Sociais</h1>
+<p><h1 align="center">Redes Sociais</h1>
 <!-- <div style="display: inline_block"></div> -->
 <a href="https://www.youtube.com/channel/UCnrVfxfXJulqCpq2ubsgIIQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/robsonbrasil.iot" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://twitter.com/RobsonBrasill" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.facebook.com/RobsonBrasill/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 <a href = "mailto:robsonbrasil.emailparticular@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></h1></a>
-</br>
+</p>
 </div>
 
 <p></p>
