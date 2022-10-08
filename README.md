@@ -37,7 +37,7 @@
 </br>
 </div>
 
-<br></br>
+<p></p>
 
 <div align="center">
 <div style="display: inline_block">
