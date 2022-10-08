@@ -50,7 +50,7 @@
 </div>
 
 <div align="center">
-<p align="center"><b>Contador de Visitantes</b></p>  
+< align="center"><b>Contador de Visitantes</b> 
 < align="center"><img align="center" src="https://profile-counter.glitch.me/{Robson-Brasil}/count.svg"/></>
 </div>
 
