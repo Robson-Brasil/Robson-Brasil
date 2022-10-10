@@ -1,6 +1,6 @@
 <h1><img width=100% src= "https://capsule-render.vercel.app/api?type=waving&color=f69804&height=150&section=header" /></h1>
 
-<align="center"<img width="75%" src="./assets/gh-readme-header.png"/></alian>
+<align="center" img width="75%" src="./assets/gh-readme-header.png"</alian>
 
 | <img height="200em align=center" src="https://github-readme-stats.vercel.app/api?username=Robson-Brasil&count_private=true&include_all_commits=true&show_icons=true&theme=maroongold&hide_border=false&show_owner=true" alt="Robson's github stats" /></a> | <img height="200em align=center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robson-Brasil&layout=compact&theme=maroongold&border=true" /></a> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
