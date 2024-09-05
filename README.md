@@ -7,7 +7,7 @@
 
 <div align="center">
 <p><div style="display: inline_block">
-<img align="left" height="150" alt="coding-time" src="code.gif">
+<img align="left" height="130" alt="coding-time" src="code.gif">
 <h1 align="center">Tecnologias Mais Usadas</h1>
 <img align="center" alt="RobsonBrasil-Js" height="40" width="40" src="assets/github_logo_icon_147285.png">
 <img align="center" alt="RobsonBrasil-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
