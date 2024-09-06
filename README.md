@@ -43,7 +43,7 @@
 <div style="display: inline_block">
 <img align="center"><img width="15%" src="./assets/picwish.png">
 
-<img src="https://raw.githubusercontent.com/Robson-Brasil/Robson-Brasil/output/github-contribution-grid-snake.svg" alt="Snake animation">
+![snake gif](https://github.com/Robson-Brasil/Robson-Brasil/blob/output/github-contribution-grid-snake.svg)
 
 
 </div>
